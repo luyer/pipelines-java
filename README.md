@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/luyerto/firstTest/_apis/build/status/luyer.pipelines-java?branchName=master)](https://dev.azure.com/luyerto/firstTest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
